@@ -125,7 +125,6 @@ TARGET_POWERHAL_VARIANT := hammerhead
 
 # Quirks
 TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS := true
-TARGET_HAS_LEGACY_CAMERA_HAL1 := true
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := hammerhead,hammerheadcaf
